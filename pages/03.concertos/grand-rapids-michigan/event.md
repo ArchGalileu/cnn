@@ -4,10 +4,10 @@ taxonomy:
     category:
         - featured
 event:
-    start: '14-10-2016 11:00'
-    end: '14-10-2016 13:00'
+    start: '14-10-2017 11:00'
+    end: '14-10-2017 13:00'
     freq: daily
-    until: '17-10-2016 17:00'
+    until: '17-10-2018 17:00'
     location: 'Grand Rapids, MI'
     coordinates: '42.9633599, -85.6680863'
 ---
