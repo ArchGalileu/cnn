@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Concertos
 content:
     items:
         '@taxonomy':
