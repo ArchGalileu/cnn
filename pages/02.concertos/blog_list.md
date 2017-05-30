@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Concertos
 visible: true
 content:
     items: '@self.children'
