@@ -1,5 +1,6 @@
 ---
-title: Acerca
+title: Bio
+slug: bio
 ---
 
 ###Acerca
