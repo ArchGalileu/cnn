@@ -1,6 +1,6 @@
 ---
 title: 'Mendelssohn - Sinfonia para cordas nº 7 - Allegro'
-published: false
+published: true
 ---
 
-![](https://youtu.be/ZBrjdyx6nLU)
+[plugin:youtube](https://youtu.be/ZBrjdyx6nLU)
