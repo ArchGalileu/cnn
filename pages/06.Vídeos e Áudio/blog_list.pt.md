@@ -1,10 +1,15 @@
 ---
-title: ''
-sitemap:
-    changefreq: ''
-    priority: ''
-body_classes: ''
-order_by: ''
-order_manual: ''
+title: 'Videos  e Áudio'
+content:
+    items: '@self.children'
+    leading: 0
+    columns: 2
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    show_date: false
+    pagination: true
+    url_taxonomy_filters: true
 ---
 
