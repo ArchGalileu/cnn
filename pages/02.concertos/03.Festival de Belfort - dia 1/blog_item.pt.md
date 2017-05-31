@@ -6,7 +6,7 @@ taxonomy:
         - blog
     tag:
         - 'Festival de Belfort'
-visible: true
+visible: false
 image:
     summary:
         enabled: '1'
