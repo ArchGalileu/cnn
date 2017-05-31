@@ -1,5 +1,5 @@
 ---
-title: 'Mendelssohn - Sinfonia para cordas nº 7 - Allegro'
+title: 'Mendelssohn - Sinfonia para cordas nº 7'
 published: true
 ---
 
