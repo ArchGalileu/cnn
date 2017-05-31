@@ -1,21 +1,20 @@
 ---
 title: 'Sunshine in the Hills'
-date: 07/11/2016
-author: 'Tasha Maxwell'
+date: '03-06-2017 15:00'
 taxonomy:
     category:
         - blog
     tag:
-        - journal
-        - photography
+        - 'Festival de Belfort'
 visible: true
 image:
     summary:
-        enabled: true
+        enabled: '1'
         file: unsplash_tiago_gerken.jpg
     text:
-        enabled: true
+        enabled: '1'
         file: unsplash_tiago_gerken.jpg
+author: 'Tasha Maxwell'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies tristique nulla et mattis. Phasellus id massa eget nisl congue blandit sit amet id ligula. Praesent et nulla eu augue tempus sagittis. Mauris faucibus nibh et nibh cursus in vestibulum sapien egestas. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus.
