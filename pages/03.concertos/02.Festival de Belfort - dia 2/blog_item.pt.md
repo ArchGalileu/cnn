@@ -1,20 +1,18 @@
 ---
-title: 'The Urban Jungle'
-date: '17:34 07/04/2016'
+title: 'Festival de Belfort - dia 2'
+date: '05:01 06/04/2017'
 taxonomy:
     category:
         - blog
     tag:
-        - travel
-        - photography
-        - city
+        - 'Festival de Belfort'
 visible: true
 image:
     summary:
-        enabled: true
+        enabled: '1'
         file: unsplash_victor_erixon.jpg
     text:
-        enabled: true
+        enabled: '1'
         file: unsplash_victor_erixon.jpg
 ---
 
