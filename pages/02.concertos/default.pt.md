@@ -3,7 +3,7 @@ title: Concertos
 slug: concertos
 visible: true
 content:
-    items: '@self.descendants'
+    items: '@self.children'
     leading: 0
     columns: 2
     limit: 10
