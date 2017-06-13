@@ -1,6 +1,6 @@
 ---
-title: 'Videos e Áudio'
-slug: videos-audio
+title: 'Audio and Video'
+slug: audio-video
 content:
     items: '@self.children'
     leading: 0
