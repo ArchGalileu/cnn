@@ -1,5 +1,6 @@
 ---
 title: Concerts
+slug: concerts
 visible: true
 content:
     items: '@self.children'
