@@ -1,5 +1,5 @@
 ---
 title: 'Festival de Belfort - dia 2'
-visible: false
+visible: true
 ---
 
