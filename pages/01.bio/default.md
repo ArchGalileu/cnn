@@ -1,19 +1,19 @@
 ---
-title: About
+title: 
 ---
 
-###About
+###Camerata NovNorte
 
-Camerata NovNorte é uma orquestra de câmara de cordas constituída por jovens instrumentistas do Norte de Portugal
+Camerata NovNorte is an orchestra of chamber of strings constituted by young instrumentalists of the North of Portugal
 
-O trabalho desenvolvido na Camerata NovNorte, dirigida pelo prof. Radu Ungureanu, centra-se no repertório de todas as épocas da música instrumental, destinado a este tipo de agrupamento. A sua problemática específica, parcialmente diferente da problemática sinfónica ou da música de câmara, representa um complemento na formação dos instrumentistas.
+The work developed at Camerata NovNorte, directed by prof. Radu Ungureanu, focuses on the repertoire of all times of instrumental music, intended for this type of grouping. Its specific problematic, partially different from the problematic symphonic or chamber music, represents a complement in the formation of the instrumentalists.
 
-Na preparação dos programas do agrupamento valorizam-se as capacidades técnicas individuais, colocando-as ao serviço da construção da imagem sonora e do aperfeiçoamento da expressão musical, exigidas pelas especificidades dum ensemble de dimensão reduzida.
+In the preparation of the programs, individual technical skills are valued by placing them at the service of sound image construction and the improvement of musical expression required by the specificities of a small ensemble.
 
-Entre as notas características do agrupamento, salientam-se o virtuosismo – quer pelas opções do repertório, quer pela atitude interpretativa – e o cuidado com os aspectos estilísticos.
+Among the characteristic notes of the Camerata NovNorte, virtuosity is emphasized - both by the repertoire options and by the interpretative attitude - and the care with the stylistic aspects.
 
-A atividade da Camerata NovNorte concretiza-se em concertos pelo Norte do país: Porto, Braga, Vila Nova de Gaia, Espinho, etc.
+The activity of Camerata NovNorte takes place in concerts in the north of the country: Porto, Braga, Vila Nova de Gaia, Espinho, etc.
 
-A Camerata participou em festivais como FAN de Vila Real e Bragança (2012), e FIMU de Belfort, França (2014).
+The Camerata participated in festivals like FAN of Vila Real and Bragança, Portugal (2012), and FIMU of Belfort, France (2014 and 2017).
 
-A orquestra realizou a gravação para a banda sonora do filme “La revoyure” de Saguenail.
+The orchestra made the recording for the soundtrack of the film "La revoyure" by Saguenail.
