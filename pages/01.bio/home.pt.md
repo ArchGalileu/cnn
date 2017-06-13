@@ -1,7 +1,5 @@
 ---
 title: Bio
-introduce: ''
-introduce_background: ''
 slug: bio
 ---
 
