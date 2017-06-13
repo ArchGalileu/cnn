@@ -1,6 +1,7 @@
 ---
 title: 'Videos e Áudio'
 slug: videos-audio
+visible: true
 content:
     items: '@self.children'
     leading: 0
